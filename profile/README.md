@@ -1,5 +1,3 @@
-<img src="https://github.com/Busiman-official/.github/assets/87561982/b49b030d-80fe-484b-bc26-4d10b44ae50c" width="50">
-
 # Busiman - Business Management Software
 
 Welcome to Busiman, a comprehensive Sass software designed for Business management to manage your business online. Get all the reports of your business at one place
